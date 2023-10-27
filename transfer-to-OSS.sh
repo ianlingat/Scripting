@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 #/reports/scripts/ossutil64 cp -r /reports/Reports_Passed/ oss://ctvi-bucket/ctvi-reports/
 
 # Define the lock file path
